@@ -9,8 +9,3 @@ def fizzbuzz(int)
   else int % 15 == 0
     "FizzBuzz"
 end
-
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz(15)
-fizzbuzz()
